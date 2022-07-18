@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-Agile-Boiler-Plate.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-Agile-Boiler-Plate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-Agile-Boiler-Plate.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-Agile-Boiler-Plate.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-Agile-Boiler-Plate.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-Agile-Boiler-Plate.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-Agile-Boiler-Plate.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-Agile-Boiler-Plate.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-Agile-Boiler-Plate.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-Agile-Boiler-Plate.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
