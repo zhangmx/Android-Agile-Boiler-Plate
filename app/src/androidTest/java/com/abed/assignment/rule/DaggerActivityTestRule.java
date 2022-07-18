@@ -3,6 +3,7 @@ package com.abed.assignment.rule;
 import android.app.Activity;
 import androidx.annotation.NonNull;
 import androidx.test.platform.app.InstrumentationRegistry;
+import androidx.test.rule.ActivityTestRule;
 //import android.support.test.InstrumentationRegistry;
 //import androidx.test.rule.ActivityTestRule;
 

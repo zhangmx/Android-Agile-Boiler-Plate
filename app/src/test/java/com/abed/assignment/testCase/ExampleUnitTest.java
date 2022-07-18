@@ -1,4 +1,4 @@
-package com.abed.assignment.testcase;
+package com.abed.assignment.testCase;
 
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.appcompat.widget.SearchView;
