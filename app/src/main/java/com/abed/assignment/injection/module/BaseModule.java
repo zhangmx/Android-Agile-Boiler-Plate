@@ -24,7 +24,7 @@ import timber.log.Timber;
 /**
  * Provide general dependencies.
  */
-@Singleton
+//@Singleton
 @Module
 public class BaseModule {
 

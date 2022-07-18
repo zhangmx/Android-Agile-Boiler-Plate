@@ -1,6 +1,6 @@
 package com.abed.assignment.ui.base;
 
-import android.support.v4.app.Fragment;
+import androidx.fragment.app.Fragment;
 
 import com.abed.assignment.BaseApplication;
 import com.abed.assignment.injection.component.DaggerFragmentComponent;

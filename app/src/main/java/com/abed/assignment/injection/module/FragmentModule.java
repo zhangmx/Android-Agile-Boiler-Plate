@@ -1,7 +1,7 @@
 package com.abed.assignment.injection.module;
 
 import android.content.Context;
-import android.support.v4.app.Fragment;
+import androidx.fragment.app.Fragment;
 
 import com.abed.assignment.injection.ActivityContext;
 

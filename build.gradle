@@ -2,18 +2,22 @@
 
 buildscript {
     repositories {
+        mavenCentral()
+        google()
         jcenter()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:2.2.2'
-        classpath 'com.neenbedankt.gradle.plugins:android-apt:1.8'
-        classpath 'me.tatarka:gradle-retrolambda:3.2.4'
-        classpath 'com.google.gms:google-services:3.0.0'
+        classpath 'com.android.tools.build:gradle:7.2.1'
+//        classpath 'com.neenbedankt.gradle.plugins:android-apt:1.8'
+//        classpath 'me.tatarka:gradle-retrolambda:3.2.4'
+//        classpath 'com.google.gms:google-services:3.0.0'
     }
 }
 
 allprojects {
     repositories {
+        mavenCentral()
+        google()
         jcenter()
         maven { url "https://www.jitpack.io" }
     }

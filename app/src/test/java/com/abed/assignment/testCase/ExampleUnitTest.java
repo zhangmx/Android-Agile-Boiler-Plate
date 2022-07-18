@@ -1,7 +1,7 @@
 package com.abed.assignment.testcase;
 
-import android.support.v7.widget.RecyclerView;
-import android.support.v7.widget.SearchView;
+import androidx.recyclerview.widget.RecyclerView;
+import androidx.appcompat.widget.SearchView;
 
 import com.abed.assignment.BuildConfig;
 import com.abed.assignment.R;

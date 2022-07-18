@@ -1,9 +1,10 @@
 package com.abed.assignment.rule;
 
 import android.app.Activity;
-import android.support.annotation.NonNull;
-import android.support.test.InstrumentationRegistry;
-import android.support.test.rule.ActivityTestRule;
+import androidx.annotation.NonNull;
+import androidx.test.platform.app.InstrumentationRegistry;
+//import android.support.test.InstrumentationRegistry;
+//import androidx.test.rule.ActivityTestRule;
 
 import com.abed.assignment.BaseApplication;
 

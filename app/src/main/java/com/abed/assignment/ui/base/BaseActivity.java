@@ -1,7 +1,7 @@
 package com.abed.assignment.ui.base;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.abed.assignment.BaseApplication;
 import com.abed.assignment.injection.component.ActivityComponent;
