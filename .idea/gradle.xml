@@ -10,8 +10,8 @@
         <option name="gradleHome" value="$PROJECT_DIR$/../../../../develop/gradle-7.4.2" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
+            <option value="$USER_HOME$/repos/lab/androids/Android-Agile-Boiler-Plate" />
+            <option value="$USER_HOME$/repos/lab/androids/Android-Agile-Boiler-Plate/app" />
           </set>
         </option>
       </GradleProjectSettings>
